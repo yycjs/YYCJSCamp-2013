@@ -1,3 +1,3 @@
-### YYCjs Slide Template
+### YYCJSCamp
 
-Our template for our monthly slide deck using [landslide](https://github.com/adamzap/landslide). Feel free to rip it off if you would like.
+Content for the first YYCJS barcamp
